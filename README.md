@@ -20,7 +20,7 @@ A simple web application that allows users to manage their tasks efficiently. Us
 
    ```sh
    git clone https://github.com/sappakit/todo-list-app.git
-   cd movie-store-app
+   cd todo-list-app
    ```
 
 2. **Install dependencies:**
